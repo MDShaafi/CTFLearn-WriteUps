@@ -14,10 +14,9 @@ and password commented out. It seemed from here on it was an uphill battle
 
 After messing around with python a bit I came accross 'curl' which seem to be the way to solve this challenge
 
-terminal
-'''
+```terminal
 $ curl http://165.227.106.113/post.php -d "username=admin&password=71urlkufpsdnlkadsf"
-'''
+
 
 Just using the admin and password identified before when I inspected the page and I got the flag
 
