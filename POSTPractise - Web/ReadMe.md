@@ -16,8 +16,9 @@ After messing around with python a bit I came accross 'curl' which seem to be th
 
 ```terminal
 $ curl http://165.227.106.113/post.php -d "username=admin&password=71urlkufpsdnlkadsf"
+```
 
 
 Just using the admin and password identified before when I inspected the page and I got the flag
 
-**Flag: CTFLearn{p0st_d4t4_4ll_d4y}**
+**Flag:** CTFLearn{p0st_d4t4_4ll_d4y}
